@@ -16,8 +16,7 @@
     <a href="mailto:info@optimistic.cloud">Contact</a>
   </p>
 </div>
-
----
+</br>
 
 ## 🗒️ Purpose
 This organization is a central hub for personal projects.  
