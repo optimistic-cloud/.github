@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="../logo10.png" width="160px" height="160px" alt="Logo">
+  <img src="../logo11.png" width="160px" height="160px" alt="Logo">
 
   <h3 align="center">optimistic.cloud</h3>
 
