@@ -3,6 +3,10 @@
 <div align="center">
   <h3 align="center">🌤️ optimistic.cloud</h3>
 
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="../logo.png" alt="Logo" width="240" height="240">
+  </a>
+
   <p align="center">
     A personal space for experimenting with self-hosting, automation, and cloud-native infrastructure
     <br />
@@ -19,9 +23,9 @@
 </br>
 
 ## 🗒️ Purpose
-This organization is a central hub for personal projects.  
-Code is public for reference and inspiration but maintained primarily for personal use.  
-Not a company, no services are offered.
+- This organization is a central hub for personal projects.  
+- Code is public for reference and inspiration but maintained primarily for personal use.  
+- Not a company, no services are offered.
 
 ## 📜 License
 Unless otherwise noted, all projects are released under the [WTFPL – Do What The F*ck You Want To Public License](http://www.wtfpl.net/about/).
