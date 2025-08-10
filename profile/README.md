@@ -2,9 +2,8 @@
 
 <div align="center">
   
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="../logo8.png" alt="Logo" width="240" height="240" >
-  </a>
+
+  <img src="../logo8.png" alt="Logo" width="240" height="240" >
   <h3 align="center">optimistic.cloud</h3>
 
   <p align="center">
