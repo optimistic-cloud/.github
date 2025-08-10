@@ -1,6 +1,9 @@
 <a id="readme-top"></a>
 
 <div align="center">
+
+  <img src="../logo10.png" width="160px" height="160px" alt="Logo">
+
   <h3 align="center">optimistic.cloud</h3>
 
   <p align="center">
