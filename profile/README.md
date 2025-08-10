@@ -1,8 +1,9 @@
 <a id="readme-top"></a>
 
 <div align="center">
+  
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="../logo6.png" alt="Logo" width="200" height="200" >
+    <img src="../logo8.png" alt="Logo" width="240" height="240" >
   </a>
   <h3 align="center">optimistic.cloud</h3>
 
