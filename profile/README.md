@@ -4,7 +4,7 @@
   <h3 align="center">🌤️ optimistic.cloud</h3>
 
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="../logo4.png" alt="Logo" width="240" height="240">
+    <img src="../logo5.png" alt="Logo" width="240" height="240">
   </a>
 
   <p align="center">
