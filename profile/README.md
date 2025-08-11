@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/optimistic-cloud/.github/main/profile/logo11.png" width="160px" height="160px" alt="Logo">
+  <img src="https://github.com/optimistic-cloud/.github/blob/9b0a5d8529fe7372a61a99286dfe316a2abf89d9/logo11.png" width="160px" height="160px" alt="Logo">
 
   <h3 align="center">optimistic.cloud</h3>
 
